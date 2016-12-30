@@ -3,4 +3,4 @@ A trivia game about Methacton Electric Car Club and renewable energy!
 
 ---
 
-Game: http://methactonecc.org/games/CoalShooter/index.html
+Game: http://methactonecc.org/games/games/CoalShooter/index.html
