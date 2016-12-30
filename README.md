@@ -1,6 +1,6 @@
-# Super Coal Shooter 2.0
+# Coal Shooter
 A trivia game about Methacton Electric Car Club and renewable energy! 
 
 ---
 
-Game: http://methactonecc.github.io/coal-shooter/
+Game: http://methactonecc.org/games/games/CoalShooter/index.html
