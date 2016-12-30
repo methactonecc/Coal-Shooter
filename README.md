@@ -1,4 +1,4 @@
-# Super Coal Shooter 2.0
+# Coal Shooter
 A trivia game about Methacton Electric Car Club and renewable energy! 
 
 ---
